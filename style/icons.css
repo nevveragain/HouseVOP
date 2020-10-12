@@ -1,0 +1,36 @@
+.icon_play::before {
+    content: '\f144';
+    font-weight: 900;
+}
+
+.icon_map::before {
+    content: '\f3c5';
+    font-weight: 300;
+    margin-right: 20px;
+}
+
+.icon_phone::before {
+    content: '\f879';
+    font-weight: 300;
+    margin: 0 15px 0 100px;
+}
+
+.icon_youtube::before {
+    content: '\f167';
+    font-weight: 400;
+}
+
+.icon_vk::before {
+    content: '\f189';
+    font-weight: 400;
+}
+
+.icon_fb::before {
+    content: '\f39e';
+    font-weight: 400;
+}
+
+.icon_inst::before {
+    content: '\f16d';
+    font-weight: 400;
+}
